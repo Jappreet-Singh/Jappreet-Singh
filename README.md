@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Jappreet-Singh
-- 👀 I’m interested in data related stuff and programming
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on Data analysis projects using python
-- 📫 How to reach me 📧 japsaini247@gmail.com
+```
+const developer = new SoftwareEngineer();
 
-<!---
-Jappreet-Singh/Jappreet-Singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+developer.setSkills([
+  'Angular',
+  'FastAPI',
+  'Python',
+  'C#'
+]);
+
+developer.specializesIn([
+  'Full-Stack Development',
+  'AI Applications',
+  'RAG Pipelines',
+  'REST APIs'
+]);
+
+developer.currentGoal = 'Building intelligent software that solves real-world problems.';
+developer.alwaysLearning = true;
+```
